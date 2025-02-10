@@ -1,0 +1,8 @@
+celery==5.4.0
+redis==5.0.1
+moviepy==1.0.3
+opencv-python==4.8.1.78
+numpy==1.24.3
+python-dotenv
+pydantic
+fastapi
